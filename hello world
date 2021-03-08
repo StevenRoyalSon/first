@@ -14,5 +14,3 @@ live_update=soup.find_all('div',id='maincounter-wrap')
 print(live_update)
 for i in live_update:
     print(i.text)
-coronavirus.liveupdate.py
-Displaying coronavirus.liveupdate.py.
